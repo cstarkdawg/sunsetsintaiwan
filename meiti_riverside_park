@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sunset Spot Title</title>
+    <title>Meiti Riverside Park</title>
     <!-- Add any additional CSS styles here -->
 </head>
 <body>
 
     <header>
-        <h1>Sunset Spot Title (English / Chinese)</h1>
+        <h1>Meiti Riverside Park (English / Chinese)</h1>
     </header>
 
     <section id="introduction">
@@ -19,17 +19,17 @@
 
     <section id="activities">
         <h2>Activities at Sunset Spot Title:</h2>
-        <p>At Sunset Spot Title, you'll find people engaging in sports, picnicking, running, walking their dogs, and biking. The park provides a panoramic view of Taipei's urban landscape, including planes landing at Songshan Airport, traffic jams on the highway, Taipei 101 towering over the city, blooming flowers, boats floating on the river, and the majestic Grand Hotel Taipei behind the beautiful Dazhi Bridge.</p>
+        <p>I’m a big fan of Taipei’s riverside parks. One of the best of these in which to see a sunset is Meiti. Situated at the crossroads of Zhongshan, Neihu, and Songshan, Meiti is a huge park offering plenty of space for many activities. At Meiti, you’ll find people playing sports, picnicking, running, walking their dogs, and biking. From the park, you can see planes landing at Songshan Airport, traffic jams on the highway, Taipei 101 towering over the city, flowers blooming, boats floating on the river, and the majestic Grand Hotel Taipei behind the beautiful Dazhi Bridge. All of these sights together provide a huge variety of options when it comes to taking sunset pictures.</p>
     </section>
 
     <section id="photography">
         <h2>Sunset Photography:</h2>
-        <p>Sunset Spot Title offers diverse options for capturing sunset pictures. You can walk along the river and capture the bridge and Grand Hotel in the background, use the park’s trees as foreground reference points, or even take creative shots from behind the basketball court to capture some action during the sunset.</p>
+        <p>You can walk right next to the river and take nice pictures with the bridge and Grand Hotel in the background, the approximate direction the sun will be setting. You can also utilize some of the park’s many trees as a foreground reference point. Some creative folks might like taking pictures from behind the basketball court to capture some action during the sunset. What I enjoy about the park is that it’s so big, and you’re not stuck at only one good spot.</p>
     </section>
 
     <section id="accessibility">
         <h2>Accessibility:</h2>
-        <p>If you don’t live near Neihu, Sunset Spot Title is accessible by public transit. Take the MRT to Jiannan Road Station and walk about 15 minutes to the park. You can also use YouBikes available at the MRT station for quick access within the park. Alternatively, buses from MRT Jiannan Road Station can take you directly to the park.</p>
+        <p>If you don’t live near Neihu, Meiti Riverside Park probably takes a bit of time to get to. If you want to stick to public transit and don’t mind walking, take the MRT to Jiannan Road Station and walk about 15 minutes to the park. That same MRT station has YouBikes, which I recommend as they’ll get you to the park quickly, and you’ll have a way to move around inside the huge park a lot easier. You can also take a bus to the park. From MRT Jiannan Road Station, you can take the R3 Shuttle to the entrance (the Dazhi Meiti Garden 3 stop). Multiple buses (including the 42 from Taipei Main Station) stop at Dazhi Meiti Garden 2. Finally, there are plenty of scooter and car parking spots in the park.</p>
     </section>
 
     <section id="transportation">
